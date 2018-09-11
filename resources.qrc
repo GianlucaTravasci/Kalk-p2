@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Resources/what.gif</file>
+        <file>Resources/stylesheet.qss</file>
+        <file>Resources/whatIcon.gif</file>
+    </qresource>
+</RCC>

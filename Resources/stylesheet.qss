@@ -1,0 +1,43 @@
+QMainWindow, QWidget {
+	background-color: #eaeaea;
+}
+
+QPushButton {
+	border-style: solid;
+	border-width: 2px;
+	border-color:  white;
+	background: white;
+	color: #222222;
+}
+
+QPushButton:hover {
+	border-color: #cccccc;
+	background: #dddddd;
+}
+
+QPushButton:pressed {
+	border-color: #bebebe;
+	background: #cccccc;
+}
+
+QPushButton[enabled="false"] {
+	background: #eaeaea;
+}
+
+QLineEdit {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #dddddd;
+	background: white;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+Line {
+	border-style: solid;
+}
+
+#labelLog {
+	background-color: white;
+	padding: 5px;
+}
